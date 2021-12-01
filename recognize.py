@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-############################### Parse Input Arguments #########################
+############################### Parse Input Arguments -- updating #########################
 import argparse
 import logging
 
